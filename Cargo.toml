@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 structopt = "0.3"
+rusoto_credential = "*"
+rusoto_sts = "*"
+rusoto_core = "*"
